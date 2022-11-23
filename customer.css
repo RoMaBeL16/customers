@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(./../font/Raleway/static/Raleway-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url(./../font/open-sans-v34-latin/open-sans-v34-latin-regular.woff2);
+}
+.all{
+    width: 1170px;
+    margin: 0 auto;
+}
+.header{
+    width: 1170px;
+    height: 211px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+h2{
+    font-family: 'Raleway';
+    font-size: 36px;
+    margin-top: 57px;
+    margin-bottom: 57px;
+    font-weight: 400;
+}
+.header__img{
+    margin: 0;
+}
+.header__text2{
+    font-family: 'Raleway';
+    font-size: 18px;
+    color: #86878B;
+    margin-top: 40px;
+    margin-bottom: 0%;
+    font-weight: 400;
+}
+.allcustomer{
+    width: 1170px;
+    margin-top: 83px;
+    display: flex;
+    flex-direction: row;
+}
+.davis{
+    width: 370px;
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+}
+.davis__text{
+    width: 370px;
+    height: 180px;
+    background-color: #E2E2E2;
+    border-radius: 10px;
+    font-family: 'Raleway';
+    font-size: 18px;
+    color: #86878B;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    font-weight: 400;
+    margin: 0%;
+}
+.davis__text__container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 66px;
+    display: flex;
+    align-items: center;
+}
+.davis__img{
+    width: 70px;
+    height: 70px;
+    margin-left: 0;
+    flex-direction: row;
+}
+.davis__name{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0%;
+    margin-left: 30px;
+    width: 269px;
+    height: 54px;
+    align-items: center;
+    display: flex;
+}
+.davis__prof{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0%;
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 270px;
+    height: 21px;
+}
+.jaydon{
+    width: 370px;
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+
+}
+.jaydon__text{
+    width: 370px;
+    height: 180px;
+    background-color: #E2E2E2;
+    border-radius: 10px;
+    font-family: 'Raleway';
+    font-size: 18px;
+    color: #86878B;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    font-weight: 400;
+    margin: 0%;
+}
+.jaydon__text__container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 66px;
+    display: flex;
+    align-items: center;
+}
+.jaydon__img{
+    width: 70px;
+    height: 70px;
+    margin-left: 0;
+    flex-direction: row;
+}
+.jaydon__name{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0%;
+    margin-left: 30px;
+    width: 269px;
+    height: 54px;
+    align-items: center;
+    display: flex;
+}
+.jaydon__prof{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0%;
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 270px;
+    height: 21px;
+}
+.cooper{
+    width: 370px;
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    
+}
+.cooper__text{
+    width: 370px;
+    height: 180px;
+    background-color: #E2E2E2;
+    border-radius: 10px;
+    font-family: 'Raleway';
+    font-size: 18px;
+    color: #86878B;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    font-weight: 400;
+    margin: 0%;
+}
+.cooper__text__container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 66px;
+    display: flex;
+    align-items: center;
+}
+.cooper__img{
+    width: 70px;
+    height: 70px;
+    margin-left: 0;
+    flex-direction: row;
+}
+.cooper__name{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0%;
+    margin-left: 30px;
+    width: 269px;
+    height: 54px;
+    align-items: center;
+    display: flex;
+}
+.cooper__prof{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0%;
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 270px;
+    height: 21px;
+}
