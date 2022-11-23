@@ -1,0 +1,11 @@
+body{
+    counter-reset: heading;
+}
+p::before{
+    counter-increment: heading;
+    content: "Глава " counter(heading) ". ";
+    background-color: yellowgreen;
+}
+p{
+    background-color: violet;
+}
